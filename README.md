@@ -1,6 +1,6 @@
-#terminal-clock
+# terminal-clock
 
-A clock for the terminal made in C++.<br>
+## A clock for the terminal made in C++.<br>
 <br>
 For Windows:<br>
 Download "clock.exe" or compile "clock.cpp" with g++.<br>
